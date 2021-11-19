@@ -1694,25 +1694,35 @@
     ]
   },
   "packageFolders": {
-    "/Users/mer/.nuget/packages/": {}
+    "C:\\Users\\Kamok\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mer/Documents/programming/ai_multiclassification_covers/mobile_app/NEWONCExCOVERS/NEWONCExCOVERS/NEWONCExCOVERS.csproj",
+      "projectUniqueName": "C:\\Users\\Kamok\\Source\\Repos\\Hackaton\\mobile_app\\NEWONCExCOVERS\\NEWONCExCOVERS\\NEWONCExCOVERS.csproj",
       "projectName": "NEWONCExCOVERS",
-      "projectPath": "/Users/mer/Documents/programming/ai_multiclassification_covers/mobile_app/NEWONCExCOVERS/NEWONCExCOVERS/NEWONCExCOVERS.csproj",
-      "packagesPath": "/Users/mer/.nuget/packages/",
-      "outputPath": "/Users/mer/Documents/programming/ai_multiclassification_covers/mobile_app/NEWONCExCOVERS/NEWONCExCOVERS/obj/",
+      "projectPath": "C:\\Users\\Kamok\\Source\\Repos\\Hackaton\\mobile_app\\NEWONCExCOVERS\\NEWONCExCOVERS\\NEWONCExCOVERS.csproj",
+      "packagesPath": "C:\\Users\\Kamok\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kamok\\Source\\Repos\\Hackaton\\mobile_app\\NEWONCExCOVERS\\NEWONCExCOVERS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "/Users/mer/.config/NuGet/NuGet.Config"
+        "C:\\Users\\Kamok\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "monoandroid11.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
