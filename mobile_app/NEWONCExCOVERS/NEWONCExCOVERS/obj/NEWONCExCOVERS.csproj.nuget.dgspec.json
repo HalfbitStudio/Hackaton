@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mer/Documents/programming/ai_multiclassification_covers/mobile_app/NEWONCExCOVERS/NEWONCExCOVERS/NEWONCExCOVERS.csproj": {}
+  },
+  "projects": {
+    "/Users/mer/Documents/programming/ai_multiclassification_covers/mobile_app/NEWONCExCOVERS/NEWONCExCOVERS/NEWONCExCOVERS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mer/Documents/programming/ai_multiclassification_covers/mobile_app/NEWONCExCOVERS/NEWONCExCOVERS/NEWONCExCOVERS.csproj",
+        "projectName": "NEWONCExCOVERS",
+        "projectPath": "/Users/mer/Documents/programming/ai_multiclassification_covers/mobile_app/NEWONCExCOVERS/NEWONCExCOVERS/NEWONCExCOVERS.csproj",
+        "packagesPath": "/Users/mer/.nuget/packages/",
+        "outputPath": "/Users/mer/Documents/programming/ai_multiclassification_covers/mobile_app/NEWONCExCOVERS/NEWONCExCOVERS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/mer/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid11.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid11.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid11.0": {
+          "dependencies": {
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.2.0.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
