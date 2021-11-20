@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9bc1d6eb-57b9-44cb-b757-a948be3f3021" name="Halfbit">
+        <fileTransfer rootFolder="/tmp/hackaton" accessType="SFTP" host="halfbitstudio.com" port="22" sshConfigId="b0979c6f-131a-4222-bd5e-1baddfa25bce" sshConfig="root@halfbitstudio.com:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
